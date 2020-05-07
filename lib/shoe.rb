@@ -5,7 +5,7 @@ class Shoe
   end
   
   attr_writer :brand
-  attr_accessor :color, :size
+  attr_accessor :color, :size, :material, :condition
 
   
   
