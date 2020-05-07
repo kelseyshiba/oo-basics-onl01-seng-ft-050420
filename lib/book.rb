@@ -32,6 +32,8 @@ class Book
   end
   
   def turn_page
-end
+    puts "Flipping the page...wor, you read fast!"
+  end
+
 end 
 
