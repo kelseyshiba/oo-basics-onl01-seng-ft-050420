@@ -7,7 +7,9 @@ class Shoe
   attr_writer :brand
   attr_accessor :color, :size, :material, :condition
 
-  
+  def cobble
+    
+  end
   
 
 end
